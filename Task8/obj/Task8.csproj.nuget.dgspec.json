@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\Task8\\Task8.csproj": {}
+    "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\HomeWork.2\\Task8\\Task8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\Task8\\Task8.csproj": {
+    "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\HomeWork.2\\Task8\\Task8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\Task8\\Task8.csproj",
+        "projectUniqueName": "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\HomeWork.2\\Task8\\Task8.csproj",
         "projectName": "Task8",
-        "projectPath": "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\Task8\\Task8.csproj",
+        "projectPath": "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\HomeWork.2\\Task8\\Task8.csproj",
         "packagesPath": "C:\\Users\\ISMOIL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\Task8\\obj\\",
+        "outputPath": "C:\\Users\\ISMOIL\\Desktop\\C#\\HomeWork_2\\HomeWork.2\\Task8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
